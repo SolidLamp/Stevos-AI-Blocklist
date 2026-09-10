@@ -1152,6 +1152,13 @@ www.dummies.com###engage-ai
 ! Chatbot
 support-qa.eplus.jp##iframe[title="AI Chat Support"]
 
+! =================================
+! == East Herts District Council ==
+! =================================
+! -- https://www.eastherts.gov.uk/
+! Floating chatbot popup
+www.eastherts.gov.uk###chat_content
+
 ! ==========
 ! == eBay ==
 ! ==========
