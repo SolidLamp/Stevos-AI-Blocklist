@@ -1157,7 +1157,7 @@ support-qa.eplus.jp##iframe[title="AI Chat Support"]
 ! =================================
 ! -- https://www.eastherts.gov.uk/
 ! Floating chatbot popup
-www.eastherts.gov.uk###chat_content
+www.eastherts.gov.uk###block-eastherts-chatbotebiai
 
 ! ==========
 ! == eBay ==
